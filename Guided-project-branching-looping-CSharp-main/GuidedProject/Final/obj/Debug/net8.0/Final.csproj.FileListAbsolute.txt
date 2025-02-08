@@ -1,0 +1,15 @@
+/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final
+/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.deps.json
+/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.runtimeconfig.json
+/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.dll
+/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/bin/Debug/net8.0/Final.pdb
+/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.GeneratedMSBuildEditorConfig.editorconfig
+/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.AssemblyInfoInputs.cache
+/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.AssemblyInfo.cs
+/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.csproj.CoreCompileInputs.cache
+/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.sourcelink.json
+/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.dll
+/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/refint/Final.dll
+/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.pdb
+/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/Final.genruntimeconfig.cache
+/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/Debug/net8.0/ref/Final.dll
