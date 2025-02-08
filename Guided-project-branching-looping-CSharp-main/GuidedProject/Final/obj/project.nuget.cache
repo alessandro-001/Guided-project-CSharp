@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uzp235lVGgY=",
+  "dgSpecHash": "Zfl027tnX4w=",
   "success": true,
-  "projectFilePath": "/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/Final.csproj",
+  "projectFilePath": "/Users/AlessandroFrondini/Desktop/Projects/C#Sharp/Guided-project-CSharp/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/Final.csproj",
   "expectedPackageFiles": [
     "/Users/AlessandroFrondini/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
     "/Users/AlessandroFrondini/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",

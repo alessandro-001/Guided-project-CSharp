@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/Starter.csproj": {}
+    "/Users/AlessandroFrondini/Desktop/Projects/C#Sharp/Guided-project-CSharp/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/Starter.csproj": {}
   },
   "projects": {
-    "/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/Starter.csproj": {
+    "/Users/AlessandroFrondini/Desktop/Projects/C#Sharp/Guided-project-CSharp/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/Starter.csproj",
+        "projectUniqueName": "/Users/AlessandroFrondini/Desktop/Projects/C#Sharp/Guided-project-CSharp/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/Starter.csproj",
+        "projectPath": "/Users/AlessandroFrondini/Desktop/Projects/C#Sharp/Guided-project-CSharp/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/Starter.csproj",
         "packagesPath": "/Users/AlessandroFrondini/.nuget/packages/",
-        "outputPath": "/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/",
+        "outputPath": "/Users/AlessandroFrondini/Desktop/Projects/C#Sharp/Guided-project-CSharp/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/AlessandroFrondini/.nuget/NuGet/NuGet.Config"

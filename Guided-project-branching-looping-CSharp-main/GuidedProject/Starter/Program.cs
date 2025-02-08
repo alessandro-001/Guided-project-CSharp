@@ -141,11 +141,25 @@ for (int i = 0; i < maxPets; i++)
                     // another pet?
                     Console.WriteLine("Do you want to enter info for another pet (y/n)");
                 }
+                do
+                {   
+                    readResult = Console.ReadLine();
+                    if (readResult != null)
+                    {
+                        anotherPet = readResult.ToLower();
+                    }
+
+                } while (anotherPet != "y" && anotherPet != "n");
             }
 
             //Console.WriteLine("Total pets count: " + petCount);
-            Console.WriteLine("Press the Enter key to continue.");
-            readResult = Console.ReadLine();
+            if (petCount == maxPets)
+            {
+                Console.WriteLine("We have reached our limit on the number of pets that we can manage.");
+                Console.WriteLine("Press the Enter key to continue.");
+                readResult = Console.ReadLine();
+            }
+
             break;
 
         case "3":

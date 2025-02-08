@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/Final.csproj": {}
+    "/Users/AlessandroFrondini/Desktop/Projects/C#Sharp/Guided-project-CSharp/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/Final.csproj": {}
   },
   "projects": {
-    "/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/Final.csproj": {
+    "/Users/AlessandroFrondini/Desktop/Projects/C#Sharp/Guided-project-CSharp/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/Final.csproj",
+        "projectUniqueName": "/Users/AlessandroFrondini/Desktop/Projects/C#Sharp/Guided-project-CSharp/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/Final.csproj",
         "projectName": "Final",
-        "projectPath": "/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/Final.csproj",
+        "projectPath": "/Users/AlessandroFrondini/Desktop/Projects/C#Sharp/Guided-project-CSharp/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/Final.csproj",
         "packagesPath": "/Users/AlessandroFrondini/.nuget/packages/",
-        "outputPath": "/Users/AlessandroFrondini/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/",
+        "outputPath": "/Users/AlessandroFrondini/Desktop/Projects/C#Sharp/Guided-project-CSharp/Guided-project-branching-looping-CSharp-main/GuidedProject/Final/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/AlessandroFrondini/.nuget/NuGet/NuGet.Config"
